@@ -1,0 +1,11 @@
+python-dotenv
+PyPDF2
+litellm
+torch
+sentence-transformers
+scikit-learn
+plotly
+wikipedia
+ecologits
+rapidfuzz
+langchain
